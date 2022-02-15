@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Odafe88
-- 👀 I’m interested in Front end web and mobile development and blockchain development
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on block chain applications
+- 👀 I’m a Front-end developer and blockchain development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on your webdev projects
 - 📫 How to reach me Twitter @odafetoearth
 
 <!---
