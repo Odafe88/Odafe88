@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Odafe88
-- 👀 I’m a Front-end developer currently learning blockchain tech
-- 🌱 I’m currently interested in web3🤔
-- 💞️ I’m looking to collaborate on your webdev projects
+- 👋 Hi, I’m Odafe
+- 👀 I’m a Software engineer currently learning backend technologies
+- 🌱 I’m currently interested in Artificial Inteligence and content optimization.
+- 💞️ I’m looking to share Ideas and experiences
 - 📫 How to reach me Twitter @odafetoearth
 
 <!---
