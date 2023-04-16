@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Odafe
-- 👀 I’m a Software engineer currently learning backend technologies
+- 👀 I’m a web devloper and I use React, NextJs, NodeJs and Python for my web development Projects
 - 🌱 I’m currently interested in Artificial Inteligence and content optimization.
-- 💞️ I’m looking to share Ideas and experiences
+- 💞️ I’m looking to collaborate on open sourse projects
 - 📫 How to reach me Twitter @odafetoearth
 
 <!---
