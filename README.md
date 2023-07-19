@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Odafe
-- 👀 I’m a Software Developer (Web)
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on open sourse projects
+- 👋 Hey there! I'm Odafe, software developer specializing in Frontend development with React.js and Next.js. I'm constantly exploring new ways to create immersive and user-friendly web experiences. Currently, I'm expanding my skills by diving into Django, a powerful Python framework for building robust web applications.
+- 👀 When I'm not coding, you can find me sharing my thoughts and insights on twitter or writing articles on my blog.
+- 💞️ If you're looking to collaborate on exciting projects or have any questions about my work, feel free to reach out. Let's connect and create something amazing together! 🚀
 - 📫 You can reach me Twitter @odafetoearth
 
 <!---
