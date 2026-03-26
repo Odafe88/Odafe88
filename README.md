@@ -1,4 +1,4 @@
-## 👋 HWelcome to my Github profile! I'm Dafe
+## 👋 Welcome to my Github profile! I'm Dafe
 - I'm a software developer from Lagos, Nigeria. I'm constantly exploring new ways to create immersive and user-friendly web experiences. Currently, I'm expanding my skills by diving into the cloud.
 - When I'm not coding, you can find me playing basketball, making beats or just sleeping.
 - 💞️ If you're looking to collaborate on exciting projects or have any questions about my work, feel free to reach out. Let's connect and create something amazing together! 🚀
